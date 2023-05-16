@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ SHIZUKA MUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️ RONNY MUSIC ❤️</b></h1>
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
@@ -337,7 +337,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <a href="https://telegram.me/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://telegram.me/Star_X_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/Daisy_Support_chat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
