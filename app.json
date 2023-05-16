@@ -1,5 +1,5 @@
 {
-    "name": "Shizuka Music Bot",
+    "name": "Ronny Music Bot",
     "description": "Shizuka Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/798b7275e58d09ac6b095.jpg",
     "keywords": [
@@ -40,12 +40,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "⁪⁬",
+        "value": "⁪⁬𝗥𝗢𝗡𝗡𝗬 𝗠𝗨𝗦𝗜𝗖",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5463205082",
+        "value": "5401422963",
         "required": true
       },
       "STRING_SESSION": {
@@ -55,22 +55,22 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Star_X_Support",
+        "value": "https://t.me/Daisy_Support_chat",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Star_X_Network",
+        "value": "https://t.me/Bots_Hub_ll",
         "required": false
       },
       "PING_IMG_URL": {
         "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "value": "https://te.legra.ph/file/0a303e135dedcb18fb96f.jpg",
         "required": false
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://te.legra.ph/file/32652c64a6a1c696de2db.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -85,7 +85,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001968171995",
         "required": true
       },
       "UPSTREAM_REPO": {
